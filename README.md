@@ -1,6 +1,6 @@
 # Convergencia luminosa a la contracción mesurada
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)(file:///C:/Users/Pau_z/OneDrive/Documents/GitHub/documentacion-proyecto/img/totem%201-1/Modelo%20digital%20totem.jpg)
+![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale) (https://wiki.ead.pucv.cl/images/4/42/TOTEM_v1_page-0001.jpg)
 
 Este repositorio es la documentación y archivos referentes al proyecto de diseño del ciclo 2 del Taller de Interacción del año 2022, de la escuela de Arquitectura y diseño PUCV. Realizado por Paulina Zúñiga y Natalia Soto entre 06 de Abril y 12 de Mayo.
 
