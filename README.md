@@ -26,6 +26,13 @@ Otros elementos de la materialidad incluyen listones de 1pulg x 1pulg, cartón f
 Otro aspecto importante del tótem es el uso de programación con sistema ARDUINO. Para nuestro gesto se utiliza un motor stepper que permite el movimiento en el eje Y del tótem, cuyo código esta definido en la carpeta ---. tiras de luces led que se encuienden en cuanto el usuario se acerca en un primer momento al cuerpo. Y, finalmente el poder interactuar al tacto con el cuerpo para poder cambiar el color de aquello que se refleja em el cuerpo.
 
 ## Imágenes
+## Herramientas y tecnologías
+- Impresión 3D con filamento pla negro
+- Corte láser, 
+- Corte con sierra para listones 1x1
+- Arduino
+- Fuente de poder 12V
+
 En este `README.md` principal debes incorporar:
 - La descripción general del proyecto
 - Declarar autores, colaboradores y otras circunstancias relevantes
