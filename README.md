@@ -17,7 +17,6 @@ Por ello el cuerpo posee un momento de movimiento continuo, que abre al juego co
 ## Elementos 
 
 En primer lugar están los archivos cad, que corresponden a las piezas cortadas en láser, con terciado de 3mm y al modelo 3d del Elemento tótem.
-Se añade también la plantilla de semi-cortes para el plisado del papel.
 Además se añade el modelo 3D para una pieza que hará la conexión entre el eje de rotación de poleas para generar el movimiento de compresión y el motor stepper.
 
 Para realizar todas las piezas se utilizaron tecnicas como el origami para los plisados de papel, formas basadas en el libro "Técnicas de corte y plegado para diseñadores", corte en láser e impresión 3D con filamento negro.
