@@ -25,6 +25,7 @@ Otros elementos de la materialidad incluyen listones de 1pulg x 1pulg, cartón f
 Otro aspecto importante del tótem es el uso de programación con sistema ARDUINO. Para nuestro gesto se utiliza un motor stepper que permite el movimiento en el eje Y del tótem, cuyo código esta definido en la carpeta ---. tiras de luces led que se encuienden en cuanto el usuario se acerca en un primer momento al cuerpo. Y, finalmente el poder interactuar al tacto con el cuerpo para poder cambiar el color de aquello que se refleja em el cuerpo.
 
 ## Imágenes
+<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg" width="300" height="300" alt="malak artwork"> 
 ![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg)
 ![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Totem%20dibujos-03.png)
 ![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Modelo%20digital%20totem.jpg)
@@ -44,3 +45,6 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 - Archivos de corte e impresión 3d [Archivos Cam](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cam)
 - Imágenes de registro y contrucción [Imágenes](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/img)
 - Programación y conexión Arduino [Archivos Ino](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
+
+## Registro exposición
+<iframe width="600" height = "420" src="https://youtu.be/4rSVPTRsMz8"> </iframe>
