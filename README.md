@@ -1,6 +1,6 @@
 # Convergencia luminosa a la contracción mesurada
 
-<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg">
+![Imagen totem de día](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg)
 
 Este repositorio es la documentación y archivos referentes al proyecto de diseño del ciclo 2 del Taller de Interacción del año 2022, de la escuela de Arquitectura y diseño PUCV. Realizado por Paulina Zúñiga y Natalia Soto entre 06 de Abril y 12 de Mayo.
 
@@ -26,9 +26,9 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 
 ## Imágenes
 ![Dibujo vectorial Vista frontal totem](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/Totem%20dibujos-03.png)
-<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg">
-<img src="https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/Totem%20dibujos-03.png">
-<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Modelo%20digital%20totem.jpg">
+![Imagen totem de día](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg)
+![Esquema interior del totem](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/Modelo%20digital%20totem.jpg)
+
 
 ## Herramientas y tecnologías
 - Impresión 3D con filamento pla negro
@@ -44,4 +44,4 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 - Programación y conexión Arduino [Archivos Ino](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
 
 ## Registro exposición
-<iframe width="600" height = "420" src="https://www.youtube.com/watch?v=4rSVPTRsMz8"> </iframe>
+<iframe width="1200" height = "600" src="https://www.youtube.com/watch?v=4rSVPTRsMz8"> </iframe>
