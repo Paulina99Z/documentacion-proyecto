@@ -44,4 +44,4 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 
 ## Registro exposición
 <iframe width="640" height = "480" src="https://www.youtube.com/watch?v=4rSVPTRsMz8"> </iframe>
-
+<iframe width="640" height = "480" src="https://youtube.com/shorts/acE36tKqKnE?feature=share"> </iframe>
