@@ -36,11 +36,8 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 - Arduino
 - Fuente de poder 12V
 
-En este `README.md` principal debes incorporar:
-- La descripción general del proyecto
-- Declarar autores, colaboradores y otras circunstancias relevantes
-- Imágenes significativas
-- Describir la estructura de carpetas
-- Declarar herramientas y tecnologías utilizadas
-
-El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+## Estructura de las carpetas
+[Archivos Cad (Dibujos, modelos 3d)]([url](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cad)
+[Archivos Cam (Piezas para corte e impresión 3D)](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cam)
+[Imágenes de documentación y contrucción del proyecto](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/img)
+[Archivos Ino (Programación Arduino)](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
