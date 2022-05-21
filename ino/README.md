@@ -7,3 +7,6 @@ El motor utilizado es un Motor Paso A Paso Nema 23 de 200 Pasos, el cual necesit
 El motor fue controlado por un joystick, definiendo solamente el eje X del mismo.
 Cables de conexión Macho-macho Hembra-Hembra y Hembra-Macho.
 Las luces led utilizadas son Tira Cinta Led 2835 De 10 Mts RGB, una marca genérica que también necesita 12V para su funcionamiento y puede variar en la tonalidad (Uso del color). Estas fueron controladas por un sensor ultrasónico HC-sr04 con una lectura de >30cm.
+
+<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/ino/conexion%20arduino%20a%20motor%20stepper%20con%20joystick.png">
+<img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/ino/ArduinoLEDUltra.png">
