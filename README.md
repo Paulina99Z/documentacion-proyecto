@@ -44,4 +44,4 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 - Programación y conexión Arduino [Archivos Ino](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
 
 ## Registro exposición
-<iframe width="1200" height = "600" src="https://www.youtube.com/watch?v=4rSVPTRsMz8"> </iframe>
+<iframe width="1200" height = "820" src="https://www.youtube.com/watch?v=4rSVPTRsMz8"> </iframe>
