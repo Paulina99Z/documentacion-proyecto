@@ -37,7 +37,7 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 - Fuente de poder 12V
 
 ## Estructura de las carpetas
-- Archivos de modelado 3d y 2d[Archivos Cad]([url](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cad)
-- Archivos de corte e impresión 3d[Archivos Cam](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cam)
-- Imágenes de registro y contrucción[Imágenes](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/img)
-- Programación y conexión Arduino[Archivos Ino](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
+- Archivos de modelado 3d y 2d [Archivos Cad](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cad)
+- Archivos de corte e impresión 3d [Archivos Cam](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/cam)
+- Imágenes de registro y contrucción [Imágenes](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/img)
+- Programación y conexión Arduino [Archivos Ino](https://github.com/Paulina99Z/documentacion-proyecto/tree/main/ino)
