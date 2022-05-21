@@ -25,6 +25,9 @@ Otros elementos de la materialidad incluyen listones de 1pulg x 1pulg, cartón f
 Otro aspecto importante del tótem es el uso de programación con sistema ARDUINO. Para nuestro gesto se utiliza un motor stepper que permite el movimiento en el eje Y del tótem, cuyo código esta definido en la carpeta ---. tiras de luces led que se encuienden en cuanto el usuario se acerca en un primer momento al cuerpo. Y, finalmente el poder interactuar al tacto con el cuerpo para poder cambiar el color de aquello que se refleja em el cuerpo.
 
 ## Imágenes
+![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg)
+![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Totem%20dibujos-03.png)
+![Image Alt](https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Modelo%20digital%20totem.jpg)
 <img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg">
 <img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Totem%20dibujos-03.png">
 <img src="https://github.com/Paulina99Z/documentacion-proyecto/blob/main/img/totem%201-1/Modelo%20digital%20totem.jpg">
