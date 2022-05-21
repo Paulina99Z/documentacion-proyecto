@@ -26,8 +26,8 @@ Otro aspecto importante del tótem es el uso de programación con sistema ARDUIN
 
 ## Imágenes
 ![Dibujo vectorial Vista frontal totem](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/Totem%20dibujos-03.png)
-
-
+![Totem de dia](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/WhatsApp%20Image%202022-05-18%20at%2011.23.54%20PM.jpeg)
+![Interior totem modelo](https://raw.githubusercontent.com/Paulina99Z/documentacion-proyecto/main/img/totem%201-1/Modelo%20digital%20totem.jpg)
 
 ## Herramientas y tecnologías
 - Impresión 3D con filamento pla negro
